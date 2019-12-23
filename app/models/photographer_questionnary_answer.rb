@@ -1,0 +1,3 @@
+class PhotographerQuestionnaryAnswer < ApplicationRecord
+  belongs_to :photographer_questionary_question
+end

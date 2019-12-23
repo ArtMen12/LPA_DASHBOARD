@@ -1,0 +1,2 @@
+class PhotoSurveyQuestion < ApplicationRecord
+end
