@@ -1,0 +1,2 @@
+class PhotographySurveyAnswer < ApplicationRecord
+end

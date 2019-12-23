@@ -1,0 +1,2 @@
+class PhotographerQuestionnaryQuestion < ApplicationRecord
+end
